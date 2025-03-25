@@ -1,0 +1,8 @@
+Vertex 0: Neighbors [1, 2, 4, 6, 7]
+Vertex 1: Neighbors [0, 2, 3, 7]
+Vertex 2: Neighbors [0, 1, 3, 4]
+Vertex 3: Neighbors [1, 2, 4, 5, 7]
+Vertex 4: Neighbors [0, 2, 3, 5, 6]
+Vertex 5: Neighbors [3, 4, 6, 7]
+Vertex 6: Neighbors [0, 4, 5, 7]
+Vertex 7: Neighbors [0, 1, 3, 5, 6]

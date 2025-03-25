@@ -1,0 +1,8 @@
+Vertex 0: Faces [0, 6, 7, 10, 11]
+Vertex 1: Faces [0, 1, 7, 8]
+Vertex 2: Faces [0, 1, 2, 11]
+Vertex 3: Faces [1, 2, 3, 8, 9]
+Vertex 4: Faces [2, 3, 4, 10, 11]
+Vertex 5: Faces [3, 4, 5, 9]
+Vertex 6: Faces [4, 5, 6, 10]
+Vertex 7: Faces [5, 6, 7, 8, 9]
